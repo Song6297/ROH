@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #ffcccc, #ff99cc);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+  }
+  .navbar {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  .navbar-brand {
+    color: #333;
+  }
+  .navbar-nav .nav-link {
+    color: #333;
+  }
+  .jumbotron {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  .card {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  footer {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px 0;
+    text-align: center;
+  }
